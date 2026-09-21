@@ -1,0 +1,376 @@
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>Вигiднi покупки, або шопінг для себе</title>
+        <meta name="description" content="Hавчу вас купувати для себе одяг, взуття та бренди (і не тільки) з Європи, Китаю, та Кореї в 2–3 рази дешевше, ніж в Україні – без баєрів, переплат і ризиків." />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="format-detection" content="telephone=no" />
+        <link async rel="stylesheet" media="screen" type="text/css" href="css/main.css?v=123<?php echo rand(1, 99999); ?>" />
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
+    </head>
+    <body>
+        <div id="wrapper" class="wrapper">
+            <section class="first">
+                <div class="container">
+                    <div class="first__block">
+                        <div class="first__content">
+                            <div class="first__subtitle">Вигiднi</div>
+                            <h1 class="first__title">
+                                покупки, <br/><span><strong>або шопінг</strong></span><br/>для себе
+                            </h1>
+                            <div class="first__text">
+                                Hавчу вас купувати для себе одяг, взуття та <br/>бренди (і не тільки) з Європи, Китаю, та <br/>Кореї в <strong>2–3 рази дешевше,</strong> ніж в Україні – <br/><strong>без баєрів, переплат і ризиків.</strong>
+                            </div>
+                            <div class="first__btn">
+                                <a href="#tariffs" class="btn btn_main btn_pink">приєднатися</a>
+                            </div>
+                        </div>
+                        <div class="first__img" style="position: relative;">
+                            <a href="login.php" class="header-login-btn" style="position: absolute; top: -10px; right: 0; z-index: 10; display: inline-flex; align-items: center; gap: 8px; background: #FFFFFF; color: #191BDF; text-decoration: none; padding: 10px 22px; border-radius: 50px; font-weight: 700; font-size: 14px; box-shadow: 0 8px 24px rgba(0,0,0,0.08); border: 1.5px solid #191BDF; text-transform: uppercase; letter-spacing: 0.5px;">
+                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
+                                <span>Вхід до кабінету ↗</span>
+                            </a>
+                            <div class="first__img-social">
+                                <a href="https://www.instagram.com/marina_shop.polo.love" target="_blank">
+                                    <svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect width="100" height="100" rx="50" fill="white"/>
+                                        <path d="M62.2575 40.4591C60.7343 40.462 59.4958 39.2287 59.4928 37.7055C59.4898 36.1823 60.7231 34.9438 62.247 34.9408C63.771 34.9378 65.0095 36.1719 65.0125 37.6951C65.0147 39.2183 63.7814 40.4561 62.2575 40.4591Z" fill="#FF7A9D"/>
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M50.022 61.8086C43.5007 61.8213 38.2031 56.5452 38.1905 50.0223C38.1778 43.501 43.4553 38.2026 49.9766 38.1899C56.4993 38.1772 61.7977 43.4563 61.8104 49.9769C61.823 56.4997 56.544 61.7959 50.022 61.8086ZM49.9847 42.334C45.752 42.3415 42.3256 45.7806 42.333 50.0142C42.3412 54.2484 45.7811 57.6742 50.0138 57.666C54.248 57.6578 57.6745 54.2194 57.6663 49.9851C57.6581 45.7508 54.2183 42.3258 49.9847 42.334Z" fill="#FF7A9D"/>
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M34.8951 28.2391C36.3558 27.6668 38.0272 27.2748 40.4745 27.1593C42.9277 27.0415 43.7109 27.0147 49.9557 27.0028C56.202 26.9909 56.9851 27.0147 59.4383 27.1235C61.8864 27.2293 63.5586 27.6153 65.0222 28.1817C66.5364 28.7652 67.8211 29.5507 69.1014 30.8257C70.3817 32.1023 71.1701 33.3825 71.761 34.8946C72.3326 36.3567 72.7246 38.0267 72.8408 40.4755C72.9571 42.9279 72.9854 43.7104 72.9973 49.956C73.0093 56.2009 72.9839 56.9849 72.8766 59.4396C72.77 61.8861 72.3848 63.5591 71.8184 65.022C71.2334 66.5362 70.4494 67.821 69.1744 69.1012C67.8994 70.3823 66.6176 71.17 65.1056 71.7617C63.6435 72.3325 61.9735 72.7245 59.5263 72.8414C57.0731 72.9577 56.2899 72.9853 50.0429 72.9972C43.7988 73.0091 43.0156 72.9853 40.5624 72.8772C38.1144 72.7699 36.4414 72.3847 34.9786 71.819C33.4644 71.2333 32.1796 70.4501 30.8994 69.1743C29.6184 67.8985 28.8292 66.6175 28.239 65.1054C27.6667 63.6441 27.2762 61.9733 27.1592 59.5268C27.0422 57.0728 27.0147 56.2888 27.0028 50.044C26.9908 43.7983 27.0154 43.0159 27.1227 40.5626C27.2308 38.1139 27.6146 36.4416 28.1809 34.9773C28.7659 33.4638 29.5498 32.1798 30.8264 30.8987C32.1014 29.6185 33.3831 28.8285 34.8951 28.2391ZM36.4713 67.9551C37.2828 68.2673 38.5004 68.6399 40.7428 68.7376C43.1691 68.8426 43.8957 68.8658 50.0354 68.8538C56.1774 68.8426 56.904 68.8166 59.3295 68.7025C61.5696 68.596 62.7873 68.2189 63.5966 67.9029C64.6704 67.4834 65.435 66.9819 66.2383 66.1778C67.0416 65.3707 67.5387 64.6039 67.9545 63.53C68.2675 62.7178 68.6394 61.4993 68.737 59.257C68.8435 56.8321 68.8659 56.1048 68.854 49.9635C68.8428 43.8237 68.8167 43.0964 68.7012 40.6707C68.5954 38.4298 68.2191 37.2122 67.9024 36.4036C67.4828 35.3283 66.9828 34.5652 66.1765 33.7611C65.3702 32.957 64.6033 32.4614 63.528 32.0456C62.718 31.7319 61.4988 31.3608 59.258 31.2632C56.8316 31.1566 56.1043 31.135 49.9631 31.1469C43.8234 31.1588 43.0969 31.1834 40.6712 31.2982C38.4297 31.4047 37.2135 31.7811 36.4027 32.0978C35.3296 32.5173 34.565 33.0159 33.761 33.823C32.9584 34.63 32.4613 35.3953 32.0455 36.4714C31.734 37.2822 31.3592 38.5014 31.2631 40.7422C31.1572 43.1686 31.1349 43.896 31.1468 50.0358C31.158 56.177 31.1841 56.9044 31.2981 59.3285C31.4031 61.5709 31.7824 62.7871 32.0977 63.5986C32.5172 64.671 33.0173 65.4355 33.8228 66.2396C34.6299 67.0407 35.3967 67.5393 36.4713 67.9551Z" fill="#FF7A9D"/>
+                                    </svg>
+                                </a>
+                                <a href="https://t.me/+DJ8At29MEy0xMzMy" target="_blank">
+                                    <svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <rect width="100" height="100" rx="50" fill="white"/>
+                                        <rect width="46" height="46" transform="translate(27 27)" fill="white"/>
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M31.8155 47.7936C43.1345 42.8621 50.6823 39.6109 54.4588 38.0401C65.2416 33.5551 67.4822 32.776 68.9426 32.7503C69.2638 32.7446 69.9819 32.8242 70.4471 33.2017C70.84 33.5204 70.948 33.951 70.9997 34.2532C71.0515 34.5554 71.1159 35.2438 71.0647 35.7817C70.4803 41.9213 67.952 56.8205 66.6657 63.6969C66.1214 66.6066 65.0497 67.5822 64.0122 67.6777C61.7574 67.8852 60.0452 66.1876 57.8614 64.756C54.444 62.5159 52.5135 61.1214 49.1964 58.9355C45.3629 56.4092 47.848 55.0208 50.0327 52.7516C50.6044 52.1578 60.539 43.1214 60.7313 42.3017C60.7554 42.1991 60.7777 41.817 60.5507 41.6152C60.3236 41.4134 59.9886 41.4824 59.7468 41.5373C59.404 41.6151 53.9448 45.2234 43.3691 52.3624C41.8195 53.4265 40.4159 53.9449 39.1584 53.9177C37.7721 53.8878 35.1053 53.1339 33.1228 52.4895C30.6912 51.699 28.7587 51.2811 28.927 49.9388C29.0146 49.2396 29.9775 48.5245 31.8155 47.7936Z" fill="#FF7A9D"/>
+                                    </svg>
+                                </a>
+                            </div>
+                            
+                            <img class="pc" src="img/first-img.png" />
+                            <img class="mob" src="img/first-img-mob.png" />
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="learn">
+                <div class="container">
+                    <div class="learn__head">
+                        <div class="learn__title title">
+                            <span><strong>на курсі Ви</strong></span><br/>навчитесь
+                        </div>
+                        <div class="learn__text">
+                            <p>- курс для тих, хто хоче купувати брендові речі вигідно та без переплат</p>
+                            <p>- перевірені сайти, прямі посилання, покрокова система та лайфхаки, які економлять гроші</p>
+                            <p>- чат підтримки, де ви не залишитеся з питаннями</p>
+                        </div>
+                    </div>
+                    <div class="learn__block">
+                        <div class="learn__all">
+                            <div class="learn__item item-1">
+                                <div class="learn__item-title">вiдрiзняти</div>
+                                <div class="learn__item-text">оригінал від копій</div>
+                            </div>
+                            <div class="learn__item item-2">
+                                <div class="learn__item-title">обходити</div>
+                                <div class="learn__item-text"> всі підводні камені</div>
+                            </div>
+                            <div class="learn__item item-3">
+                                <div class="learn__item-title">купувати</div>
+                                <div class="learn__item-text">одяг, взуття, косметику та <br/>парфуми за вигідними цінами</div>
+                            </div>
+                            <div class="learn__item item-4">
+                                <div class="learn__item-title">замовляти</div>
+                                <div class="learn__item-text">самостійно з Європи, <br/>Китаю та Кореї</div>
+                            </div>
+                        </div>
+                        <div class="learn__main">
+                            <div class="learn__item item-5">
+                                <div class="learn__item-title">знаходити</div>
+                                <div class="learn__item-text">ті самі товари, що продають <br/>баєри, але значно дешевше</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="about">
+                <div class="container">
+                    <h2 class="about__title title">Про мене</h2>
+                    <div class="about__block">
+                        <div class="about__img img-1">
+                            <img src="img/about-img-1.png" />
+                        </div>
+                        <div class="about__img img-2">
+                            <img class="pc" src="img/about-img-2.png" />
+                            <img class="mob" src="img/about-img-2-mob.png" />
+                        </div>
+                        <div class="about__content">
+                            <div class="about__text">
+                                Мене звати Марина — я баєр і вже 5 років <br/>допомагаю жінкам, чоловікам купувати брендові речі за вигідною ціною для себе та всієї родини. Також я підбираю розмір, створюю готовий образ, що не кожний Баєр може робити і витрачати на це час. <br/>Мені - це в задоволення, та комфорт для клієнтів.
+                            </div>
+                            <div class="about__subtitle"><span><strong>I Я знаю</strong></span></div>
+                            <div class="about__list">
+                                <span>де знайти ті самі речі дешевше</span>
+                                <span>як не втратити гроші</span>
+                                <span>як купити оригінал</span>
+                                <span>як купувати вигідно, а не «як всі»</span>
+                                <span class="pink">i тепер я зібрала весь свій досвід у цьому курсі</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="tariffs" id="tariffs">
+                <div class="container">
+                    <h2 class="tariffs__title title">Тарифи</h2>
+                    <div class="tariffs__list">
+                        <div class="tariffs__item item-1">
+                            <div class="tariffs__item-content">
+                                <div class="tariffs__item-title">
+                                    <img src="img/tariffs-title-1.png" />
+                                </div>
+                                <div class="tariffs__item-text">
+                                    <ul>
+                                        <li>- список перевірених сайтів Європи <br/>(одяг, косметика, взуття та інше)</li>
+                                        <li>- інструкції по замовленню</li>
+                                        <li>- реєстрація в логістичній компанії</li>
+                                        <li>- топ 7 сайтів з кращими знижками</li>
+                                    </ul>
+                                </div>
+                                <div class="tariffs__item-price">
+                                    890 грн
+                                </div>
+                                <div class="tariffs__item-btn">
+                                    <button type="button" class="btn btn_main btn_yellow btn-buy-tariff" data-pkg="1" data-name="Пакет 1. Базовий: Сайти Європи та Америки" data-price="890">приєднатися</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tariffs__item item-2">
+                            <div class="tariffs__item-content">
+                                <div class="tariffs__item-title">
+                                    <img src="img/tariffs-title-2.png" />
+                                </div>
+                                <div class="tariffs__item-text">
+                                    <ul>
+                                        <li>- все з базового ( європейські топ сайти )</li>
+                                        <li>- платформи Китай та Корея</li>
+                                        <li>- мої особисті посилання на товари</li>
+                                        <li>- відмінності копії від оригіналу в Китаї</li>
+                                        <li>- реєстрація в логістичній компанії</li>
+                                        <li>- чат підтримка в телеграм</li>
+                                    </ul>
+                                </div>
+                                <div class="tariffs__item-price">
+                                    1.330 грн
+                                </div>
+                                <div class="tariffs__item-btn">
+                                    <button type="button" class="btn btn_main btn_white btn-buy-tariff" data-pkg="2" data-name="Пакет 2. Стандарт: Китай та Корея" data-price="1330">приєднатися</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tariffs__item item-3">
+                            <div class="tariffs__item-content">
+                                <div class="tariffs__item-title">
+                                    <img src="img/tariffs-title-3.png" />
+                                </div>
+                                <div class="tariffs__item-text">
+                                    <ul>
+                                        <li>- все зі стандарту</li>
+                                        <li>- особиста консультація</li>
+                                        <li>- допомога з першим замовленням</li>
+                                        <li>- відповіді на всі питання</li>
+                                    </ul>
+                                </div>
+                                <div class="tariffs__item-price">
+                                    3.290 грн
+                                </div>
+                                <div class="tariffs__item-btn">
+                                    <button type="button" class="btn btn_main btn_black btn-buy-tariff" data-pkg="3" data-name="Пакет 3. VIP: Особистий супровід" data-price="3290">приєднатися</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="faq">
+                <div class="container">
+                    <div class="faq__block">
+                        <h2 class="faq__title title">
+                            <span><strong>Часті</strong></span> <br/>питання
+                        </h2>
+                        <div class="faq__img">
+                            <img src="img/faq-img.png" />
+                        </div>
+                        <div class="faq__list">
+                            <div class="faq__item active">
+                                <div class="faq__item-question">Це складно?</div>
+                                <div class="faq__item-answer">Ні, я пояснюю максимально просто, навіть якщо ви ніколи не замовляли самі.</div>
+                            </div>
+                            <div class="faq__item">
+                                <div class="faq__item-question">Чи безпечно замовляти?</div>
+                                <div class="faq__item-answer">Так, я даю тільки перевірені сайти</div>
+                            </div>
+                            <div class="faq__item">
+                                <div class="faq__item-question">А якщо не підійде розмір?</div>
+                                <div class="faq__item-answer">У курсі є телеграм чат , де ви зможете продати ваше взуття  + мої рекомендації, як вірно визначити розмір.</div>
+                            </div>
+                            <div class="faq__item">
+                                <div class="faq__item-question">Чи підійде курс новачкам?</div>
+                                <div class="faq__item-answer">Так, він якраз створений для тих, хто хоче почати.</div>
+                            </div>
+                            <div class="faq__item">
+                                <div class="faq__item-question">За який час окупиться курс?</div>
+                                <div class="faq__item-answer">У більшості — вже з 1–2 замовлень.</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <footer class="footer">
+                <div class="container">
+                    <div class="footer__block">
+                        <div class="footer__btn">
+                            <a href="" class="btn btn_main btn_black" target="_blank">зв’язатись з нами</a>
+                        </div>
+                        <div class="footer__link">
+                            <a href="https://www.instagram.com/marina_shop.polo.love" target="_blank">Instagram</a>
+                            <a href="https://t.me/+DJ8At29MEy0xMzMy" target="_blank">Telegram</a>
+                        </div>
+                        <div class="footer__list">
+                            <a href="login.php" style="color: #191BDF; font-weight: 700;">Вхід для учнів курсу ↗</a>
+                            <a href="">Публічна оферта</a>
+                            <a href="">Політика конфіденційності</a>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+
+        <!-- ==========================================================================
+             ORDER CHECKOUT MODAL (NOVAPAY)
+             ========================================================================== -->
+        <div class="order-modal" id="orderModal" aria-hidden="true">
+            <div class="order-modal__dialog">
+                <button type="button" class="order-modal__close" id="closeOrderModalBtn" aria-label="Закрити">&times;</button>
+                
+                <h3 class="order-modal__title">Оформлення замовлення</h3>
+                <p class="order-modal__subtitle">Введіть дані для отримання доступу до матеріалів</p>
+
+                <div class="order-modal__pkg-badge">
+                    <span class="order-modal__pkg-name" id="modalPkgName">Пакет 1. Базовий</span>
+                    <span class="order-modal__pkg-price" id="modalPkgPrice">890 ₴</span>
+                </div>
+
+                <form id="orderForm" onsubmit="submitOrderForm(event)">
+                    <input type="hidden" id="modalPkgId" name="package_id" value="1" />
+
+                    <div class="order-modal__field">
+                        <label class="order-modal__label" for="custName">Ваше ім’я:</label>
+                        <input type="text" id="custName" name="name" class="order-modal__input" placeholder="Олена" required autocomplete="name" />
+                    </div>
+
+                    <div class="order-modal__field">
+                        <label class="order-modal__label" for="custEmail">Ваш Email (для доступу до курсу): *</label>
+                        <input type="email" id="custEmail" name="email" class="order-modal__input" placeholder="your@email.com" required autocomplete="email" />
+                        <span class="order-modal__hint">⚠️ На цю пошту після оплати автоматично надійде пароль від кабінету</span>
+                    </div>
+
+                    <div class="order-modal__field">
+                        <label class="order-modal__label" for="custPhone">Телефон (для зв’язку):</label>
+                        <input type="tel" id="custPhone" name="phone" class="order-modal__input" placeholder="+380..." autocomplete="tel" />
+                    </div>
+
+                    <button type="submit" class="order-modal__submit" id="submitOrderBtn">
+                        <span>Перейти до оплати через NovaPay ↗</span>
+                    </button>
+
+                    <div class="order-modal__security">
+                        <svg width="15" height="15" viewBox="0 0 24 24" fill="#10B981">
+                            <path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"/>
+                        </svg>
+                        <span>Безпечна оплата NovaPay • Миттєвий автодоступ</span>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $('.faq__item-question').on("click", function(e) {
+                    $(this).parents('.faq__item').toggleClass('active');
+                });
+            });
+
+            // ----------------------------------------------------
+            // ORDER MODAL & NOVAPAY INTEGRATION
+            // ----------------------------------------------------
+            function openOrderModal(pkgId, name, price) {
+                document.getElementById('modalPkgId').value = pkgId;
+                document.getElementById('modalPkgName').innerText = name;
+                document.getElementById('modalPkgPrice').innerText = price + ' ₴';
+                document.getElementById('orderModal').classList.add('open');
+            }
+
+            function closeOrderModal() {
+                document.getElementById('orderModal').classList.remove('open');
+            }
+
+            document.querySelectorAll('.btn-buy-tariff').forEach(function(btn) {
+                btn.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    var pkg = this.getAttribute('data-pkg');
+                    var name = this.getAttribute('data-name');
+                    var price = this.getAttribute('data-price');
+                    openOrderModal(pkg, name, price);
+                });
+            });
+
+            document.getElementById('closeOrderModalBtn').addEventListener('click', closeOrderModal);
+            document.getElementById('orderModal').addEventListener('click', function(e) {
+                if (e.target === this) closeOrderModal();
+            });
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape') closeOrderModal();
+            });
+
+            function submitOrderForm(e) {
+                e.preventDefault();
+                var btn = document.getElementById('submitOrderBtn');
+                btn.disabled = true;
+                btn.innerHTML = '<span>Ініціалізація платежу NovaPay...</span>';
+
+                var payload = {
+                    package_id: document.getElementById('modalPkgId').value,
+                    name: document.getElementById('custName').value,
+                    email: document.getElementById('custEmail').value,
+                    phone: document.getElementById('custPhone').value
+                };
+
+                fetch('api/order_create.php', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(payload)
+                })
+                .then(function(res) { return res.json(); })
+                .then(function(data) {
+                    if (data.success && data.redirect_url) {
+                        window.location.href = data.redirect_url;
+                    } else {
+                        alert(data.error || 'Помилка створення замовлення. Спробуйте ще раз.');
+                        btn.disabled = false;
+                        btn.innerHTML = '<span>Перейти до оплати через NovaPay ↗</span>';
+                    }
+                })
+                .catch(function(err) {
+                    console.error(err);
+                    alert('Помилка зв’язку із сервером. Перевірте з’єднання.');
+                    btn.disabled = false;
+                    btn.innerHTML = '<span>Перейти до оплати через NovaPay ↗</span>';
+                });
+            }
+        </script>
+    </body>
+</html>

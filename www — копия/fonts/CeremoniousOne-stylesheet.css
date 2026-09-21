@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Ceremonious One';
+    src: url('CeremoniousOne.eot');
+    src: url('CeremoniousOne.eot?#iefix') format('embedded-opentype'),
+        url('CeremoniousOne.woff2') format('woff2'),
+        url('CeremoniousOne.woff') format('woff'),
+        url('CeremoniousOne.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

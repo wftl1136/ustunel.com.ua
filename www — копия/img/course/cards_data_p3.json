@@ -1,0 +1,112 @@
+[
+  {
+    "id": 301,
+    "sec": "p3_sec_01",
+    "badge": "badge_network.png",
+    "tags": ["ОДЯГ", "ПРЕМІУМ"],
+    "title": "NETWORK",
+    "country": "Туреччина",
+    "desc": "Преміальний турецький бренд чоловічого та жіночого одягу з акцентом на базових, елегантних і якісних речах. Тренчі, пальта, якісний трикотаж, ділові костюми, сорочки, преміум-лінійка взуття та аксесуари.",
+    "url": "https://www.network.com.tr/",
+    "url_text": "network.com.tr"
+  },
+  {
+    "id": 302,
+    "sec": "p3_sec_01",
+    "badge": "badge_beymen.png",
+    "tags": ["ОДЯГ", "ПРЕМІУМ"],
+    "title": "BEYMEN CLUB",
+    "country": "Туреччина",
+    "desc": "Преміальний бренд відомої Beymen Group із сучасною класикою та якісним повсякденним одягом для жінок і чоловіків. Smart casual i contemporary classic.",
+    "url": "https://www.beymenclub.com/",
+    "url_text": "beymenclub.com"
+  },
+  {
+    "id": 303,
+    "sec": "p3_sec_01",
+    "badge": "badge_ipekyol.png",
+    "tags": ["ОДЯГ", "ПРЕМІУМ"],
+    "title": "IPEKYOL",
+    "country": "Туреччина",
+    "desc": "Один із найвідоміших турецьких жіночих fashion-брендів. Елегантний діловий стиль, сучасна класика та якісний одяг на щодень і для подій: костюми, сукні, аксесуари.",
+    "url": "https://www.ipekyol.com.tr/",
+    "url_text": "ipekyol.com.tr"
+  },
+  {
+    "id": 304,
+    "sec": "p3_sec_01",
+    "badge": "badge_yargici.png",
+    "tags": ["СЕРЕДНІЙ +", "ПРЕМІУМ"],
+    "title": "YARGICI",
+    "country": "Туреччина",
+    "desc": "Бренд із витонченим естетичним стилем, природними та натуральними тонами. Тут легка елегантність і стримані речі з цікавими деталями, а також товари для дому. Одяг, аксесуари, home & lifestyle.",
+    "url": "https://www.yargici.com/",
+    "url_text": "yargici.com"
+  },
+  {
+    "id": 305,
+    "sec": "p3_sec_01",
+    "badge": "badge_mudo.png",
+    "tags": ["LIFESTYLE"],
+    "title": "MUDO",
+    "country": "Туреччина",
+    "desc": "Великий турецький lifestyle-бренд із якісними речами для базового та стильного гардероба, а також цікавими предметами для дому. Одяг, аксесуари, декор, меблі.",
+    "url": "https://www.mudo.com.tr/",
+    "url_text": "mudo.com.tr"
+  },
+  {
+    "id": 306,
+    "sec": "p3_sec_01",
+    "badge": "badge_elleshoes.png",
+    "tags": ["ВЗУТТЯ"],
+    "title": "ELLE SHOES",
+    "country": "Туреччина",
+    "desc": "Турецький бренд взуття, сумок та якісних аксесуарів, що поєднує класичний дизайн, актуальні тенденції та якісні матеріали. Взуття, сумки, шкіряні аксесуари.",
+    "url": "https://www.elleshoes.com/",
+    "url_text": "elleshoes.com"
+  },
+  {
+    "id": 307,
+    "sec": "p3_sec_01",
+    "badge": "badge_mavi.png",
+    "tags": ["PREMIUM DENIM"],
+    "title": "MAVI",
+    "country": "Туреччина",
+    "desc": "Один з найвідоміших турецьких denim-брендів із міжнародною присутністю. Актуальні моделі джинсів, хороша якість та приємне співвідношення ціни й стилю. Джинси, одяг, casual.",
+    "url": "https://www.mavi.com/",
+    "url_text": "mavi.com"
+  },
+  {
+    "id": 308,
+    "sec": "p3_sec_01",
+    "badge": "badge_avva.png",
+    "tags": ["ЧОЛОВІЧИЙ ОДЯГ"],
+    "title": "AVVA",
+    "country": "Туреччина",
+    "desc": "Бренд чоловічого одягу з сучасним міським стилем — від базового гардероба до smart casual образів. Чоловічий одяг, casual, smart casual.",
+    "url": "https://www.avva.com.tr/",
+    "url_text": "avva.com.tr"
+  },
+  {
+    "id": 309,
+    "sec": "p3_sec_01",
+    "badge": "badge_twist.png",
+    "tags": ["ТРЕНД", "МОЛОДІЖНИЙ"],
+    "title": "TWIST",
+    "country": "Туреччина",
+    "desc": "Молодіжний бренд групи Ipekyol із більш сміливим і трендовим характером, для тих, хто любить нестандартні образи та актуальний street style. Одяг, аксесуари, street fashion.",
+    "url": "https://www.twist.com.tr/",
+    "url_text": "twist.com.tr"
+  },
+  {
+    "id": 310,
+    "sec": "p3_sec_01",
+    "badge": "badge_nisantasi.png",
+    "tags": ["ТРЕНД", "МОЛОДІЖНИЙ"],
+    "title": "NİŞANTAŞI SHOES",
+    "country": "Туреччина",
+    "desc": "Локальний турецький бренд жіночого взуття з широким вибором моделей на кожен день — від балеток і лоферів до чобіток та босоніжок. Взуття, сумки, аксесуари.",
+    "url": "https://www.nisantasishoes.com/",
+    "url_text": "nisantasishoes.com"
+  }
+]

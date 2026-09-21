@@ -1,0 +1,90 @@
+[
+  {
+    "id": 101,
+    "sec": "p2_sec_01",
+    "badge": "badge_pinduoduo.png",
+    "tag": "MARKETPLACE",
+    "title": "PINDUODUO",
+    "country": "Китай",
+    "desc": "Одна з популярних китайських платформ із величезним вибором товарів у різних категоріях та великою кількістю вигідних пропозицій.",
+    "url": "https://www.pinduoduo.com/",
+    "url_text": "https://www.pinduoduo.com/"
+  },
+  {
+    "id": 102,
+    "sec": "p2_sec_01",
+    "badge": "badge_1688.png",
+    "tag": "MARKETPLACE",
+    "title": "1688",
+    "country": "Китай",
+    "desc": "Китайська платформа з великим вибором товарів від виробників і постачальників. Особливо цікава для пошуку товарів за внутрішніми цінами китайського ринку.",
+    "url": "https://www.1688.com/",
+    "url_text": "https://www.1688.com/"
+  },
+  {
+    "id": 103,
+    "sec": "p2_sec_01",
+    "badge": "badge_taobao.png",
+    "tag": "MARKETPLACE",
+    "title": "TAOBAO",
+    "country": "Китай",
+    "desc": "Один із найбільших китайських маркетплейсів із величезним асортиментом одягу, взуття, аксесуарів, косметики, товарів для дому та багато іншого.",
+    "url": "https://www.taobao.com/",
+    "url_text": "https://www.taobao.com/"
+  },
+  {
+    "id": 104,
+    "sec": "p2_sec_01",
+    "badge": "badge_poizon.png",
+    "tag": "FASHION • SNEAKERS",
+    "title": "POIZON",
+    "country": "Китай",
+    "desc": "Популярна платформа для покупки кросівок, одягу, аксесуарів та товарів від відомих світових брендів.",
+    "url": "https://www.poizon.com/",
+    "url_text": "https://www.poizon.com/"
+  },
+  {
+    "id": 105,
+    "sec": "p2_sec_01",
+    "badge": "badge_wechat.png",
+    "tag": "СЕРВІС",
+    "title": "WECHAT",
+    "country": "Китай",
+    "desc": "Не просто месенджер, а один із ключових китайських сервісів, який може знадобитися для комунікації, роботи з продавцями та оплати покупок.",
+    "url": "https://www.wechat.com/",
+    "url_text": "https://www.wechat.com/"
+  },
+  {
+    "id": 106,
+    "sec": "p2_sec_02",
+    "badge": "badge_gmarket.png",
+    "tag": "MARKETPLACE",
+    "title": "GMARKET",
+    "country": "Південна Корея",
+    "desc": "Один із найбільших корейських онлайн-маркетплейсів із широким вибором товарів: від косметики та одягу до електроніки й товарів для дому.",
+    "url": "http://global.gmarket.co.kr/",
+    "url_text": "global.gmarket.co.kr"
+  },
+  {
+    "id": 107,
+    "sec": "p2_sec_02",
+    "badge": "badge_stylekorean.png",
+    "tag": "K-BEAUTY",
+    "title": "STYLEKOREAN",
+    "country": "Південна Корея",
+    "desc": "Онлайн-магазин корейської косметики та догляду з великим вибором популярних K-beauty брендів.",
+    "url": "https://stylekorean.com/",
+    "url_text": "stylekorean.com"
+  },
+  {
+    "id": 108,
+    "sec": "p2_sec_02",
+    "badge": "badge_oliveyoung.png",
+    "tag": "BEAUTY",
+    "title": "OLIVE YOUNG",
+    "country": "Південна Корея",
+    "desc": "Одна з найвідоміших корейських beauty-платформ із косметикою, засобами для догляду та популярними локальними брендами.",
+    "url": "https://global.oliveyoung.com/",
+    "url_text": "global.oliveyoung.com"
+  }
+]

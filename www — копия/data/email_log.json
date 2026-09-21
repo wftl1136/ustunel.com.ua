@@ -1,0 +1,104 @@
+[
+    {
+        "time": "2026-09-17 20:12:32",
+        "recipient": "olena.test@example.com",
+        "package": "Пакет 1. Базовий: Сайти Європи та Америки",
+        "login": "olena.test@example.com",
+        "password": "F9wMgaVb6t",
+        "mail_sent": true,
+        "login_url": "http:\/\/127.0.0.1:8088\/login.php"
+    },
+    {
+        "time": "2026-09-17 20:13:02",
+        "recipient": "petro.standard@example.com",
+        "package": "Пакет 2. Стандарт: Китай та Корея",
+        "login": "petro.standard@example.com",
+        "password": "FQNJAk7$54",
+        "mail_sent": true,
+        "login_url": "http:\/\/127.0.0.1:8088\/login.php"
+    },
+    {
+        "time": "2026-09-17 20:16:05",
+        "recipient": "max@sw.digital",
+        "package": "Пакет 1. Базовий: Сайти Європи та Америки",
+        "login": "max@sw.digital",
+        "password": "vpAR$hmWLb",
+        "mail_sent": true,
+        "login_url": "http:\/\/127.0.0.1:8088\/login.php"
+    },
+    {
+        "time": "2026-09-17 20:16:42",
+        "recipient": "max@sw.digital",
+        "package": "Пакет 1. Базовий: Сайти Європи та Америки",
+        "login": "max@sw.digital",
+        "password": "Xc8mJK!m!T",
+        "mail_sent": true,
+        "login_url": "http:\/\/127.0.0.1:8088\/login.php"
+    },
+    {
+        "time": "2026-09-17 20:17:41",
+        "recipient": "zzzeleznyakmaxim@gmail.com",
+        "package": "Пакет 2. Стандарт: Китай та Корея",
+        "login": "zzzeleznyakmaxim@gmail.com",
+        "password": "CkRbwv$gfq",
+        "mail_sent": true,
+        "login_url": "http:\/\/127.0.0.1:8088\/login.php"
+    },
+    {
+        "time": "2026-09-17 20:53:51",
+        "recipient": "skammorksi@gmail.com",
+        "package": "Пакет 1. Базовий: Сайти Європи та Америки",
+        "login": "skammorksi@gmail.com",
+        "password": "fU8XSdmWGk",
+        "mail_sent": true,
+        "login_url": "http:\/\/127.0.0.1:8088\/login.php"
+    },
+    {
+        "time": "2026-09-17 21:16:00",
+        "recipient": "skammorksi@gmail.com",
+        "package": "Пакет 2. Стандарт: Китай та Корея",
+        "login": "skammorksi@gmail.com",
+        "password": "e7X#Mt9VbK",
+        "mail_sent": true,
+        "login_url": "http:\/\/127.0.0.1:8088\/login.php"
+    },
+    {
+        "time": "2026-09-21 08:18:35",
+        "recipient": "swdigitalrrr783@gmail.com",
+        "package": "Пакет 2. Стандарт: Китай та Корея",
+        "login": "swdigitalrrr783@gmail.com",
+        "password": "J8cdaSFD%u",
+        "mail_sent": true,
+        "login_url": "http:\/\/127.0.0.1:8088\/login.php"
+    },
+    {
+        "time": "2026-09-21 08:30:45",
+        "recipient": "swdigitalrrr783@gmail.com",
+        "package": "Пакет 2. Стандарт: Китай та Корея",
+        "login": "swdigitalrrr783@gmail.com",
+        "password": "%zxh%PgL@h",
+        "mail_sent": false,
+        "error": "SMTP Error: Could not authenticate.",
+        "login_url": "http:\/\/127.0.0.1:8088\/login.php"
+    },
+    {
+        "time": "2026-09-21 08:34:38",
+        "recipient": "swdigitalrrr783@gmail.com",
+        "package": "Пакет 2. Стандарт: Китай та Корея",
+        "login": "swdigitalrrr783@gmail.com",
+        "password": "Q%x8yJ8wa6",
+        "mail_sent": true,
+        "error": "",
+        "login_url": "http:\/\/127.0.0.1:8088\/login.php"
+    },
+    {
+        "time": "2026-09-21 09:54:56",
+        "recipient": "skammorksi@gmail.com",
+        "package": "Пакет 3. VIP: Особистий супровід",
+        "login": "skammorksi@gmail.com",
+        "password": "Z2pGqgp%6p",
+        "mail_sent": true,
+        "error": "",
+        "login_url": "http:\/\/127.0.0.1:8088\/login.php"
+    }
+]

@@ -1,0 +1,279 @@
+/* ==========================================================================
+   PAKET 3 - VIP: ОСОБИСТИЙ СУПРОВІД (CSS STYLES)
+   ========================================================================== */
+
+/* Container for Module 7 */
+.module7-stage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 70px;
+    max-width: 960px;
+    margin: 40px auto 60px;
+    padding: 0 20px;
+    position: relative;
+}
+
+/* Left Column: Note + Polaroid + Telegram button */
+.module7-col-left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    max-width: 360px;
+    width: 100%;
+}
+
+/* Note Piece */
+.module7-note-wrap {
+    position: relative;
+    width: 300px;
+    max-width: 100%;
+    margin-bottom: -32px;
+    z-index: 2;
+    filter: drop-shadow(0 6px 16px rgba(0,0,0,0.07));
+    transition: transform 0.3s ease;
+}
+
+.module7-note-wrap:hover {
+    transform: translateY(-2px);
+}
+
+.module7-note-img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Polaroid Card */
+.module7-polaroid-wrap {
+    position: relative;
+    width: 290px;
+    max-width: 95%;
+    z-index: 3;
+    filter: drop-shadow(0 14px 30px rgba(0,0,0,0.12));
+    transform: rotate(-3deg);
+    transition: transform 0.35s cubic-bezier(0.175, 0.885, 0.32, 1.275), filter 0.35s ease;
+}
+
+.module7-polaroid-wrap:hover {
+    transform: rotate(0deg) scale(1.03);
+    filter: drop-shadow(0 18px 38px rgba(0,0,0,0.18));
+}
+
+.module7-polaroid-img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Telegram Action Link */
+.module7-telegram-btn {
+    margin-top: 24px;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    color: #EE5A24;
+    font-family: var(--font-geom, 'Geometria', sans-serif);
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+    text-transform: lowercase;
+    letter-spacing: 0.3px;
+    padding: 6px 12px;
+    border-radius: 8px;
+    transition: all 0.2s ease;
+    z-index: 4;
+}
+
+.module7-telegram-btn:hover {
+    color: #C83F0D;
+    transform: scale(1.03);
+    background: rgba(238, 90, 36, 0.08);
+}
+
+.module7-telegram-btn .telegram-arrow {
+    display: inline-block;
+    transition: transform 0.2s ease;
+}
+
+.module7-telegram-btn:hover .telegram-arrow {
+    transform: translate(2px, -2px);
+}
+
+/* Right Column: Phone Mockup */
+.module7-col-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.module7-phone-wrap {
+    position: relative;
+    width: 320px;
+    max-width: 100%;
+    cursor: pointer;
+    border-radius: 46px;
+    transition: transform 0.35s ease, filter 0.35s ease;
+    filter: drop-shadow(0 16px 36px rgba(0,0,0,0.15));
+}
+
+.module7-phone-wrap:hover {
+    transform: translateY(-6px) scale(1.015);
+    filter: drop-shadow(0 22px 42px rgba(0,0,0,0.20));
+}
+
+.module7-phone-img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 46px;
+}
+
+/* Module 8 Turkish Brands Heading and Intro */
+.turkish-intro-text {
+    font-size: 15px;
+    line-height: 1.55;
+    color: #1627EC;
+    max-width: 900px;
+    margin-bottom: 28px;
+    font-weight: 500;
+}
+
+/* Card Shape & Spacing Overrides for Turkish Brands */
+.site-card {
+    min-height: 275px;
+}
+
+/* Card Header Multiple Tags Layout */
+.card-header-actions {
+    top: 40px !important;
+    left: 135px !important;
+    right: 16px !important;
+    gap: 6px !important;
+    justify-content: flex-end !important;
+}
+
+.card-tags-group {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.card-tag {
+    display: inline-flex;
+    align-items: center;
+    padding: 2.5px 8px !important;
+    border: 1px solid #6E6FFF !important;
+    border-radius: 999px !important;
+    color: #6E6FFF !important;
+    font-size: 9.5px !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.3px !important;
+    text-transform: uppercase !important;
+    background: transparent !important;
+    white-space: nowrap !important;
+    max-width: none !important;
+    line-height: 1.25 !important;
+}
+
+.card-content {
+    top: 92px !important;
+    left: 20px !important;
+    right: 20px !important;
+    bottom: 20px !important;
+}
+
+.card-desc {
+    font-size: 11.5px !important;
+    line-height: 1.42 !important;
+    color: #4A4850 !important;
+    margin-bottom: auto !important;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 4 !important;
+    -webkit-box-orient: vertical !important;
+    overflow: hidden !important;
+}
+
+/* Card Link with Underline and Vector Arrow */
+.card-link {
+    margin-top: 10px !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    color: #111111 !important;
+    font-size: 13.5px !important;
+    font-weight: 600 !important;
+    text-decoration: none !important;
+    border-bottom: 1.5px solid #111111 !important;
+    padding-bottom: 1px !important;
+    line-height: 1.2 !important;
+    align-self: flex-start !important;
+    transition: color 0.15s ease, border-bottom-color 0.15s ease, transform 0.15s ease !important;
+}
+
+.card-link:hover {
+    color: #191BDF !important;
+    border-bottom-color: #191BDF !important;
+    transform: translateX(2px) !important;
+}
+
+.card-link-arrow-svg {
+    width: 12px;
+    height: 12px;
+    margin-left: 4px;
+    stroke: currentColor;
+    stroke-width: 2.2;
+    fill: none;
+    transition: transform 0.15s ease;
+}
+
+.card-link:hover .card-link-arrow-svg {
+    transform: translate(2px, -2px);
+}
+
+/* Sidebar VIP Active Theme */
+.sidebar-pkg-active-vip {
+    color: #F15A24 !important;
+}
+
+.sidebar-mod-btn.active-orange-p3 {
+    background: #F15A24 !important;
+    color: #FFFFFF !important;
+}
+
+.sidebar-mod-btn.active-orange-p3 .mod-chevron {
+    color: #FFFFFF !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 900px) {
+    .module7-stage {
+        flex-direction: column;
+        gap: 50px;
+        margin: 30px auto 50px;
+    }
+
+    .module7-col-left {
+        max-width: 100%;
+    }
+
+    .module7-note-wrap {
+        width: 280px;
+        margin-bottom: -28px;
+    }
+
+    .module7-polaroid-wrap {
+        width: 260px;
+    }
+
+    .module7-phone-wrap {
+        width: 280px;
+    }
+
+    .card-tags-group {
+        flex-wrap: wrap;
+    }
+}

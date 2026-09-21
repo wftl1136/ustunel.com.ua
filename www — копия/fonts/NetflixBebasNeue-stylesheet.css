@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Netflix (Bebas Neue)';
+    src: url('NetflixBebasNeue.eot');
+    src: url('NetflixBebasNeue.eot?#iefix') format('embedded-opentype'),
+        url('NetflixBebasNeue.woff2') format('woff2'),
+        url('NetflixBebasNeue.woff') format('woff'),
+        url('NetflixBebasNeue.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
